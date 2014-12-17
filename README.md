@@ -1,7 +1,7 @@
 PlugExercise
 ==============
 
-Exercise on learning and using [https://github.com/elixir-lang/plug]Plugs in Elixir
+Exercise on learning and using [Plugs in Elixir](https://github.com/elixir-lang/plug).
 
 
 ## Running
