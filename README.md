@@ -32,7 +32,7 @@ mix test
 
 * Plugs are chainable:
 
-``elixir
+```elixir
 plug :one
 plug :two
 plug :three
